@@ -10,7 +10,10 @@ module.exports = {
       app: ["./app.js"]
     },
     extensions: ["js", "json"],
-    extractSharedJs: false
+    extractSharedJs: false,
+    babel: {
+      presets: ['react-app']
+    }
   },
 
   stylesheets: {
@@ -56,4 +59,3 @@ module.exports = {
     }
   }
 }
-

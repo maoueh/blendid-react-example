@@ -7,6 +7,11 @@
   "author": "Matthieu Vachon <matthieu.o.vachon@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "blendid": "^4.0.0-rc.1"
+    "blendid": "^4.0.0-rc.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-preset-react-app": "^2.2.0"
   }
 }
