@@ -1,0 +1,12 @@
+{
+  "name": "blendid-react-example",
+  "version": "1.0.0",
+  "description": "Blendid for React projects",
+  "main": "index.js",
+  "repository": "https://github.com/maoueh/blendid-react-example.git",
+  "author": "Matthieu Vachon <matthieu.o.vachon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.0.0-rc.1"
+  }
+}
